@@ -1,0 +1,26 @@
+.p1 {
+    border: 5px solid black;
+  }
+  .p2 {
+    border: 5px dotted red;
+  }
+  .p3 {
+    border: 2px dotted blue; 
+    padding: 20px;
+    margin: 10px;
+ }
+ .p4 {
+    border: 5px double purple; 
+ }
+.p5 {
+    border: 5px groove fuchsia; 
+ }
+ .p6 {
+    border: 5px ridge greenyellow; 
+ }
+ .p7 {
+    border: 5px inset yellow; 
+ }
+ .p8 {
+    border: 5px outset brown; 
+ }

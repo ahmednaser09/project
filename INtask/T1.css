@@ -1,0 +1,32 @@
+body {
+
+    margin: 10;
+}
+
+
+
+.first{
+    background-color: orange;
+    padding: 10px;
+    width: 50px;
+    opacity: 1;
+}
+.sec{
+    background-color: orange;
+    padding: 10px;
+    width: 50px;
+    opacity: 0.75;
+}
+.ther{
+    background-color: orange;
+    padding: 10px;
+    width: 50px;
+    opacity: 0.5;
+}
+.forth{
+    background-color: orange;
+    padding: 10px;
+    width: 50px;
+    opacity: 0.25;
+}
+

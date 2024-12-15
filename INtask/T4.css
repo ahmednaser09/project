@@ -1,0 +1,35 @@
+.p1 {
+    border: 5px solid blue;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+  }
+  .p2 {
+    outline-style: solid ;
+    outline-color:red;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+
+}
+.p3 {
+
+    border: 5px solid blue;
+    text-align: center;
+    outline-style: dashed ;
+    outline-color:red;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+}
+.p4{
+    margin: 30px;
+    border: 5px solid green;
+    outline: 5px solid orange;
+    outline-offset: 10px;
+    width: 200px;
+    height: 65px;
+    text-align: center;
+   
+    
+}

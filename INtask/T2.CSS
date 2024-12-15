@@ -1,0 +1,28 @@
+.p1{
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: visible;
+
+
+}
+.p2{
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow:hidden;
+
+}
+.p3{
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: scroll;
+
+}
+.p4{
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    overflow: auto;
+}
